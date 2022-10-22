@@ -6,15 +6,11 @@ This is a usefull tool to convert a text file of minecraft names into a valid wh
 
 ## Installation
 
----
-
 1. Install node dependecies - `npm install`
 
 2. Create the file `names.txt`
 
 ## Usage
-
----
 
 Using the tool is simple. Enter the names you want to have in the whitelist into `names.txt` and seperate each name with a new line. Look at `names.example.txt` as a reference.
 
